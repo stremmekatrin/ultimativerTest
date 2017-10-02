@@ -25,6 +25,7 @@ namespace WpfAppGit
         {
             InitializeComponent();
             MessageBox.Show("Tata");
+            //Das geht ohne Zweig?
         }
     }
 }
