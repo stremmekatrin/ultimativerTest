@@ -1,4 +1,4 @@
-
+﻿
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -26,6 +26,9 @@ namespace WpfAppGit
             InitializeComponent();
             MessageBox.Show("Tata");
             //Das geht ohne Zweig?
+            //Einen Zweig brauche ich für meine eigenen Änderungen
+            //Eine Fork für Zusammenarbeit
+            
         }
     }
 }
