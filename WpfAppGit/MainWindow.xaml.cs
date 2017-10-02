@@ -24,12 +24,17 @@ namespace WpfAppGit
         public MainWindow()
         {
             InitializeComponent();
-            MessageBox.Show("Tata");
+            
             //Das geht ohne Zweig?
             //Einen Zweig brauche ich für meine eigenen Änderungen
             //Eine Fork für Zusammenarbeit
             
             /*Das ist toll*/
+        }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Tata");
         }
     }
 }
